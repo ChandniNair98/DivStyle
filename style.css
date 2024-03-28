@@ -1,0 +1,16 @@
+#b1,#b2{
+   font-weight: 900;
+}
+
+#b1{
+    font-size: xx-large;
+}
+
+#confirm{
+    background-color: green;
+    color: azure;
+    
+}
+button{
+    font-size: large;
+}
